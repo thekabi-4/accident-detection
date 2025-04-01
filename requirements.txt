@@ -1,0 +1,6 @@
+ultralytics==8.1.0  # For YOLOv8
+opencv-python==4.9.0.80  # For real-time video processing
+numpy==1.24.3  # For numerical operations
+ensemble-boxes==1.0.9  # For Weighted Box Fusion (WBF)
+torch==2.1.0  # PyTorch (ensure compatibility with CUDA if using GPU)
+torchvision==0.16.0  # For PyTorch image utilities
